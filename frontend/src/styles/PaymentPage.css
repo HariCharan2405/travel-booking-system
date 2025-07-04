@@ -1,0 +1,36 @@
+.payment-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fdfdfd;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .payment-card {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .pay-now-btn,
+  .back-btn {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .pay-now-btn {
+    background-color: green;
+    color: white;
+  }
+  
+  .back-btn {
+    background-color: #999;
+    color: white;
+  }
+  
